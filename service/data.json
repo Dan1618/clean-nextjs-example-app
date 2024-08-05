@@ -1,0 +1,117 @@
+[
+  {
+    "id": "1",
+    "title": "Meeting with Marie",
+    "start": 780,
+    "date": "2025-05-05",
+    "end": 840
+  },
+  {
+    "id": "2",
+    "title": "Annual All-Hands Meeting",
+    "start": 850,
+    "date": "2025-05-05",
+    "end": 928
+  },
+  {
+    "id": "3",
+    "title": "Review OKRs",
+    "start": 870,
+    "end": 900,
+    "date": "2025-05-05",
+    "description": "Online, Zoom link here"
+  },
+  {
+    "id": "4",
+    "title": "Call with Bob",
+    "start": 420,
+    "date": "2025-05-05",
+    "end": 508
+  },
+  {
+    "id": "5",
+    "title": "Lunch",
+    "start": 720,
+    "end": 780,
+    "date": "2025-05-05",
+    "description": "OOO"
+  },
+  {
+    "id": "6",
+    "title": "Lunch",
+    "start": 720,
+    "end": 780,
+    "date": "2025-05-06",
+    "description": "OOO"
+  },
+  {
+    "id": "7",
+    "title": "Innovation & Development Think Tank",
+    "start": 600,
+    "date": "2025-05-06",
+    "end": 800
+  },
+  {
+    "id": "1bfacb56-9ce8-451b-a81c-6020d39d71c7",
+    "title": "Global Expansion Strategy Discussion",
+    "start": 500,
+    "date": "2025-05-06",
+    "end": 600
+  },
+  {
+    "id": "981c2f26-1022-4974-8664-f0611e00893f",
+    "title": "Crisis Management Task Force Meeting",
+    "start": 800,
+    "date": "2025-05-06",
+    "end": 900
+  },
+  {
+    "id": "c7c54c08-63c7-4f5d-9739-e1e8d0afbb89",
+    "title": "Workout with Jim",
+    "start": 1100,
+    "date": "2025-05-06",
+    "end": 1200
+  },
+  {
+    "id": "a3a46634-ccb6-4749-b392-58f5644e8f65",
+    "title": "Client Satisfaction Survey Results Review",
+    "start": 400,
+    "date": "2025-05-07",
+    "end": 500
+  },
+  {
+    "id": "9bcc802c-75fb-47d4-ba4e-11accea26ab5",
+    "title": "Performance Review & Goal Setting Session",
+    "start": 600,
+    "date": "2025-05-07",
+    "end": 700
+  },
+  {
+    "id": "2ea6a519-3211-4d1d-90e0-6e1858b6e4f4",
+    "title": "Sprint planning",
+    "start": 500,
+    "date": "2025-05-07",
+    "end": 700
+  },
+  {
+    "id": "b294b477-c797-4dc2-9417-bf16267c3baf",
+    "title": "Departmental Budget Planning Meeting",
+    "start": 700,
+    "date": "2025-05-07",
+    "end": 800
+  },
+  {
+    "id": "fcc10ba4-8c09-4403-bfe7-7153078fc33a",
+    "title": "Thinking session",
+    "start": 700,
+    "date": "2025-05-07",
+    "end": 900
+  },
+  {
+    "id": "dc5143a1-eae8-4044-8b5a-1df3267db35e",
+    "title": "Call John",
+    "start": 550,
+    "date": "2025-05-06",
+    "end": 600
+  }
+]
